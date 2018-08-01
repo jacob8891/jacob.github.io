@@ -1,0 +1,45 @@
+.name{
+    font-family: 'Anton', sans-serif;
+    color: white;
+}
+.cursive{
+    font-family: 'Ruslan Display', cursive;       
+}
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+      display: flex;
+    justify-content: space-around;
+}
+.headshot{
+    width:20%;
+    border-radius:50%;
+    border-style:solid;
+    
+}
+.mid{
+    background-image:url("https://www.sciencealert.com/images/articles/processed/7-reasons-look-to-space-2018_1024.jpg");
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+body{
+    background-color:dodgerblue;    
+}
+.mid{
+    background-color: white;
+}
+#wars{
+    width:1225px;
+    height: 750px;
+}
+.footer{
+    background-image:url("http://www.forgotten5.com/wp-content/uploads/2017/10/flames.jpg");
+}
